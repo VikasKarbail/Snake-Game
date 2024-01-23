@@ -1,4 +1,4 @@
-# Snake-game-using-python
+<h1>Python Snake Game 🐍 </h1>
 Snake is a classic video game that originated in the 1970s and has been popular ever since.  
 
 
