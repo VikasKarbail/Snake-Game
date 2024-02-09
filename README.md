@@ -22,5 +22,8 @@ CONCEPT REQUIRED FOR DOING THIS PROJECT
    for WINDOWS:  pip install turtle
    for MAC: pip3 install turtle
 
+![image](https://github.com/VikasKarbail/Snake-Game/assets/117006055/3dde6fd3-d768-4150-acda-56fed7a4701e)
+
+
 
                                                                                                      VIKAS K.R.
